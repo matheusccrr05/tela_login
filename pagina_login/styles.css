@@ -91,20 +91,7 @@ p{
 .back a:hover{
     text-decoration: underline;
 }
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-body{
-    background: url("/pagina_login/img/pngtree-orange-background-business-lines-image_564080.jpg");
-    background-size: cover;
-    background-position: center;
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 .principal{
     width: 420px;
     background-color: transparent;
